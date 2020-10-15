@@ -1,0 +1,47 @@
+[
+    {
+    "id": 1,
+    "name": "Grlled Onion",
+    "price": "5.75",
+    "menu_id": 1
+},
+{
+    "id": 2,
+    "name": "Lamb Kebab",
+    "price": "18.25",
+    "menu_id": 1
+},
+{
+    "id": 3,
+    "name": "Mint Yogurt",
+    "price": "4.99",
+    "menu_id": 1
+},
+{
+
+    "id": 4,
+    "name": "Coconut Fried Rice",
+    "price": "8.25",
+    "menu_id": 2
+},
+{
+
+    "id": 5,
+    "name": "Romano Pizza",
+    "price": "12.25",
+    "menu_id": 3
+},
+{
+    "id": 6,
+    "name": "Juicy Chicken Wings",
+    "price": "18.25",
+    "menu_id": 4
+
+},
+{
+    "id": 7,
+    "name": "Sushi Box",
+    "price": "18.25",
+    "menu_id": 5
+}
+]

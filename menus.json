@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Persian Delight",
+        "restaurant_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Thai Street Food",
+        "restaurant_id": 2
+    },
+    {
+        "id": 3,
+        "name": "Italian Cuisine",
+        "restaurant_id": 3
+    },
+    {
+
+        "id": 4,
+        "name": "Jerky",
+        "restaurant_id": 4
+    },
+    {
+
+        "id": 5,
+        "name": "Bento",
+        "restaurant_id": 5
+    }
+]
